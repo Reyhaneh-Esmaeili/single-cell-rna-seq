@@ -6,7 +6,6 @@ A Scanpy workflow for single-cell RNA-seq data covering quality control, normali
 
 UMI count matrix of 7,551 cells with cell-level metadata, including reference cell-type annotations (`celltype`, `redefined_cluster`). The data are human hematopoietic and immune cells (T cells, B cells, plasma cells and progenitors such as HSC, MPP, CMP, GMP and MEP).
 
-> **TODO:** add the data source and citation here (paper, accession or download link) and check its reuse terms.
 
 The notebook reads the data from `data/single_cell_dataset.zip`, which must contain:
 
