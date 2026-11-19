@@ -1,0 +1,18 @@
+# Extracted copy of the dataset (the notebook recreates it from the ZIP)
+data/extracted/
+
+# Large intermediate files
+*.h5ad
+*.loom
+
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# OS clutter
+.DS_Store
+Thumbs.db
